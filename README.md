@@ -1,3 +1,6 @@
 ### A comprehensive summary of the greatest athelets of all time
 
-As of April, 2019
+As of November, 2019
+
+- Pull requests welcomed for new sports (must be a new programming language as well)
+- Issues welcomed to debate an existing goat and language
