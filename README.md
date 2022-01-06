@@ -1,4 +1,4 @@
-### A comprehensive summary of the greatest athelets of all time
+### A comprehensive summary of the greatest athletes of all time
 
 As of November, 2019
 
